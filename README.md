@@ -1,1 +1,1 @@
-# CNN-Based-Potato-Tumor-Detection
+# CNN-Based-Tumor-Detection
